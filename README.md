@@ -24,9 +24,10 @@
 
 <p>&nbsp;<img width= "45%" src="https://github-readme-stats.vercel.app/api?username=elvissouza&show_icons=true&locale=en" alt="elvissouza" /></p>
 
-
+<p align="center"><a href="https://app.daily.dev/elvissouza"><img src="https://api.daily.dev/devcards/fea81fccf8544e16bcd5251e0ffe5910.png?r=9kt" width="400" alt="SG Tradução's Dev Card"/></a></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elvissouza" alt="elvissouza" /></a> </p>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/elvissouza"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="elvissouza" /></a></p><br><br>
