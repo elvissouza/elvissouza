@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Elvis</h1>
-<h3 align="center">A guy who loves technology</h3>
-
 <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=elvissouza&show_icons=true&locale=en&layout=compact" alt="elvissouza" />
 </p>
@@ -15,9 +13,8 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/elvissouza](https://github.com/elvissouza)
-- 💬 Ask me about **JavaScript, Vue.js, Vuetify, CSS, NodeJS, Express, mongoDB, PostgreSQL before SQL 😂**
 
-<h3 align="left">Languages and tools <i>I have already had basic studies</i></h3>
+<h3 align="left"><i>Knowledge</i></h3>
 <p align="left"> 
   <!-- Linguagens -->
     <!-- HTML5 -->
@@ -151,18 +148,6 @@
       <img 
         src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
         alt="illustrator" width="40" height="40" /> </a> 
-</p>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=elvissouza&label=Profile%20views&color=0e75b6&style=flat" alt="elvissouza" /> 
-</p>
-
-<p>
-  <img width= "45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=elvissouza&" alt="elvissouza" />
-</p>
-
-<p>
-  &nbsp;<img width= "45%" src="https://github-readme-stats.vercel.app/api?username=elvissouza&show_icons=true&locale=en" alt="elvissouza" />
-</p>
 
 <p align="center">
   <a href="https://app.daily.dev/elvissouza">
@@ -172,11 +157,19 @@
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elvissouza" alt="elvissouza" /></a> 
 </p>
-
+<p>
+  <img width= "45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=elvissouza&" alt="elvissouza" />
+</p>
+<p>
+  &nbsp;<img width= "45%" src="https://github-readme-stats.vercel.app/api?username=elvissouza&show_icons=true&locale=en" alt="elvissouza" />
+</p>
 
 <h3 align="left">Support:</h3>
 <p>
   <a href="https://www.buymeacoffee.com/elvissouza"> 
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="elvissouza" /></a>
+</p>
+<p > 
+  <img align="right" src="https://komarev.com/ghpvc/?username=elvissouza&label=Profile%20views&color=0e75b6&style=flat" alt="elvissouza" /> 
 </p>
 <br><br>
