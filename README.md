@@ -52,27 +52,22 @@
     <!-- NodeJS -->
     <a href="https://nodejs.org" target="_blank"> 
       <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a> 
-    <!-- Express -->
-    <a href="https://expressjs.com" target="_blank"> 
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-        alt="express" width="40" height="40" /> </a>   
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>   
   <!-- Bancos de Dados -->
     <!-- MongoDB -->
     <a href="https://www.mongodb.com/" target="_blank"> 
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+        src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
         alt="mongodb" width="40" height="40" /> </a> 
     <!-- MySQL -->
     <a href="https://www.mysql.com/" target="_blank"> 
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+        src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"
         alt="mysql" width="40" height="40" /> </a> 
     <!-- PostgreSQL -->
     <a href="https://www.postgresql.org" target="_blank"> 
       <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"
       alt="postgresql" width="40" height="40" /> </a> 
   <!-- Software -->
     <!-- Git -->
